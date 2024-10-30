@@ -22,11 +22,11 @@
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>
-    <string>29.10.38</string>
+    <string>30.10.41</string>
     <key>CFBundleSignature</key>
     <string>????</string>
     <key>CFBundleVersion</key>
-    <string>38</string>
+    <string>41</string>
     <key>GoogleMapsApiKey</key>
     <string>AIzaSyC-5mUX04VSAqpQVIagbhKbCWLonU-Q6Vo</string>
     <key>LSRequiresIPhoneOS</key>
